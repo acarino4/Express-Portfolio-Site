@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Demo project for COMP229 in the M2022 semester at Centennial College",
   "main": "server.js",
-  "author": "Angelo Caster M. Carino",
+  "author": "Jenyll Mabborang",
   "license": "MIT",
   "private": true,
   "scripts": {
